@@ -1,0 +1,15 @@
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\bin\Debug\SalaryToPay.exe.config
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\bin\Debug\SalaryToPay.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\bin\Debug\SalaryToPay.pdb
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\SalaryToPay.csprojAssemblyReference.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\MainWindow.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\App.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\SalaryToPay_MarkupCompile.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\SalaryToPay_MarkupCompile.lref
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\MainWindow.baml
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\SalaryToPay.g.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\SalaryToPay.Properties.Resources.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\SalaryToPay.csproj.GenerateResource.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\SalaryToPay.csproj.CoreCompileInputs.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\SalaryToPay.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\SalaryToPay\SalaryToPay\obj\Debug\SalaryToPay.pdb
